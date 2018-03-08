@@ -1,0 +1,23 @@
+### larvel 5.6 起步
+
+> 安装composer <br>
+
+---
+> 安装laravel <br>
+> composer global require "laravel/installer"
+
+---
+> 开启openssl <br>
+> 打开php.ini <br>
+> ;extension=php_openssl.dll 去掉";"
+
+---
+> 创建项目 <br>
+> laravel new project
+
+---
+> 访问网址 <br>
+> http://localhost/project/public/
+
+---
+> 结束<br>
